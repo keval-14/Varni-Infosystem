@@ -1,0 +1,158 @@
+/* stucture css */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+#wrap {
+    width: auto;
+    position: relative;
+    }
+    
+    .left{
+    width: 700px; 
+    float: left;
+    padding-left: 300px;
+    }
+
+    .right{
+        width: 500px; 
+    float: left;
+    padding-left: 10px;
+
+
+    }
+    
+    .center {
+    float: left;
+    min-width: 700px; 
+    width: auto;
+    padding-left: 130px;
+    position: relative;
+    }
+    
+    .clearBoth {
+    clear: both;
+    }
+
+
+    /* content css */
+
+
+    .serviceheading{
+
+        color: rgb(44, 44, 172);
+        font-size: 45px;
+        font-family:Arial, Helvetica, sans-serif;
+        padding-top: 50px;
+        padding-bottom: 10px;
+        font-weight: 600;
+        width: 500px;
+
+    }
+
+    .servicecontent{
+
+            color: rgb(60, 60, 136);
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            text-align: justify;
+
+    }
+
+    .servicebutton{
+
+            background-color: #FF3B33;
+            padding: 5px 10px 5px 10px;
+            margin-top: 20px;
+            border-radius: 10px;
+            border-color: #FF3B33;
+            font-size: 20px;
+            margin-left: 30%;
+        
+    }
+
+    .servicebutton:hover{
+
+            background-color: #162466;
+            border-color: #162466;
+    }
+
+
+    .servicecenterimage1, .servicerightimage1{
+
+        width: 70px;
+        height: 70px;
+        margin-top: 70px;
+        margin-bottom: 15px;
+        margin-left: 10%;
+
+    }
+
+    .servicecenterimage2{
+
+        width: 70px;
+        height: 70px;
+        margin-top: 70px;
+        margin-bottom: 15px;
+        margin-left: 10%;
+
+    }
+    .servicerightimage2{
+
+        width: 70px;
+        height: 70px;
+        margin-top: 120px;
+        margin-bottom: 15px;
+        margin-left: 10%;
+
+    }
+
+    .servicecenterimage3{
+
+        width: 70px;
+        height: 70px;
+        margin-top: 70px;
+        margin-bottom: 15px;
+        margin-left: 10%;
+
+    }
+
+    .servicerightimage3{
+
+        width: 70px;
+        height: 70px;
+        margin-top: 90px;
+        margin-bottom: 15px;
+        margin-left: 10%;
+
+    }
+
+    .servicecentertitle{
+
+        color: #162466;
+        font-family: "Source Sans Pro";
+        font-weight: 600;
+        font-size: 22px;
+        
+        }
+
+    
+
+    .servicecentercontent{
+
+        width: 300px;
+        font-size: 17px;
+        text-align: justify;
+    }
+
+    .readmore{
+
+        padding-bottom: 20px;
+        color: #FF3B33;
+        font-weight: 500;
+        
+            }
+
+            .readmore:hover{
+                color: #162466;
+            }
+
+
+

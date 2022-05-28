@@ -1,38 +1,74 @@
-.App {
-  text-align: center;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Bangla&display=swap');
+
+.intro{
+
+        position:relative; 
+        background-image: url("./img/hero-bg.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 910px;
+      
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+.onimgtext{
+
+    color: white;
+    font-size: 70px;
+    width: 700px;
+    font-family:sans-serif;
+    padding-top: 130px;
+    padding-left: 150px;
+    
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.onimgtagline{
+    color: white;
+    font-size: 18px;
+    width: 700px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 150px;
+    padding-top: 20px;
+    }
+
+.button{
+
+        background-color: rgb(224, 68, 76);
+        color: white;
+        border: none;
+        size: 20px;
+        font-size: 20px;
+        border-radius: 5px;
+        margin-left: 350px;
+        margin-top: 20px;
+        padding: 5px 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.button:hover{
+
+    background-color: rgba(245, 222, 179, 0);
+    border: 1px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    
+
+}
+.link{
+    text-decoration: none;
+    color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.link:hover{
+    text-decoration: none;
+    color: white;
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+
+
