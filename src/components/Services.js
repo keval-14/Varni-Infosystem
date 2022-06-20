@@ -88,7 +88,7 @@ function Services() {
             <a className='readmore' href="#">Read More</a>
             </div>
 
-            <img className='servicerightimage3' src={job}></img>
+            <img className='servicerightimage3' src={job} ></img>
             <h2 className='servicecentertitle'>Search Engine Optimization</h2>
             <p className='servicecentercontent'>
 

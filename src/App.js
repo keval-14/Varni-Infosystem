@@ -2,21 +2,29 @@ import './App.css';
 import {Button, button} from "reactstrap";
 import {ToastContainer, toast} from 'react-toastify'
 import Header from './components/Header';
-import Home from './components/Home';
+import Intro from './components/Intro';
 import Services from './components/Services';
+import Letsstart from './components/Letsstart';
+import Process from './components/Process';
+import Technology from './components/Technology';
+import Ourservices from './components/Ourservices';
 
 
 function App() {
 
   return (
     <>
-     <div className='mainhome'>
+     {/* <div className='mainhome'> */}
     <Header/>
-    <Home/>
+    <Intro/>
     <Services/>
+    <Letsstart/>
+    <Process/>
+    <Technology/>
+    <Ourservices/>
 
           
-    </div>
+    {/* </div> */}
     
     
     </>

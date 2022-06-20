@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+.technologymain{
+
+    margin-top: 100px;
+
+}
+
+.techtitle{
+
+    font-family: "Source Sans Pro";
+    font-size: 70px;
+    font-weight: 600;
+    color: #1C3E7E;
+    margin-top: 30px;
+}
+
+.techtagline{
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+.techlogo{
+
+    height: auto;
+    width: auto;
+    margin: 20px 20px;
+}
+
+.techlogo:hover{
+
+    transform: scale(1.3);
+
+}

@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Bangla&display=swap');
+
+.intro{
+
+        position:relative; 
+        background-image: url("../img/hero-bg.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 910px;
+      
+}
+
+
+.onimgtext{
+
+    color: white;
+    font-size: 70px;
+    width: 700px;
+    font-family:sans-serif;
+    padding-top: 130px;
+    padding-left: 150px;
+    
+}
+
+.onimgtagline{
+    color: white;
+    font-size: 18px;
+    width: 700px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 150px;
+    padding-top: 20px;
+    }
+
+    .buttonintro{
+
+        padding: 9px 25px;
+        margin: 0px;
+        background-color: rgba(0,136,169,1);
+        border: none;
+        color: white !important;
+        border-radius: 50px !important;
+        cursor: pointer;
+        transition: all  0.3s ease 0s;
+        -ms-transform: translateX(100%);
+        transform: translateX(100%);
+
+        }
+
+        .buttonintro a{
+            color: white !important;
+
+        }
+
+        .buttonintro:hover{
+
+        background-color: rgba(0,136,169,0.8);
+        
+        }
+
