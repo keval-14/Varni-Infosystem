@@ -9,7 +9,7 @@ import img7 from'../img/logo/support.jpg'
 
 function Ourservices() {
   return (
-    <div>
+    <div id="ourservices">
          <div className='text-center'>
           <h2 className='ourservicetitle text-center'>
           Our Comprehensive Services

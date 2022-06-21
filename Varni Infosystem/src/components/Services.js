@@ -10,7 +10,7 @@ import job from '../img/icons/cn.jpg'
 
 function Services() {
   return (
-    <div>
+    <div id="services">
       
            
         <div class="left"> 
