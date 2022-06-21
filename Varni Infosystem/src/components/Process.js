@@ -5,7 +5,7 @@ import '../components/Process.css'
 function Process() {
   return (
     <div>
-      <div className='processmain'>
+      <div className='processmain' id="processmain">
             <div className='processtitle text-center'>
             Our Process
             </div>

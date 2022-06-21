@@ -16,6 +16,7 @@ function Header()
                     <ul className="nav_links">
                         <li><a href="#header">HOME</a></li>
                         <li><a href="#services">SERVICES</a></li>
+                        <li><a href="#processmain">PROCESS</a></li>
                         <li><a href="#">PRICING</a></li>
                         <li><a href="#">ABOUT US</a></li>
                 
