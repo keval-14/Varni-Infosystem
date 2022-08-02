@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Varni-Infosystem/static/css/main.ecbdafc2.css",
+    "main.js": "/Varni-Infosystem/static/js/main.9b1711e5.js",
+    "static/js/787.2a767361.chunk.js": "/Varni-Infosystem/static/js/787.2a767361.chunk.js",
+    "static/media/hero-bg.jpg": "/Varni-Infosystem/static/media/hero-bg.e13de51a2c4b429b146f.jpg",
+    "static/media/seo-and-online-marketing.png": "/Varni-Infosystem/static/media/seo-and-online-marketing.9b63ee5d7c8eec495cb8.png",
+    "static/media/cn.jpg": "/Varni-Infosystem/static/media/cn.f983b43023888f8778d6.jpg",
+    "static/media/vi logo png.png": "/Varni-Infosystem/static/media/vi logo png.3ab4824c0ec0252a7b65.png",
+    "static/media/process.jpg": "/Varni-Infosystem/static/media/process.5fd9a62c11ac1249cfa1.jpg",
+    "static/media/letsstart.jpg": "/Varni-Infosystem/static/media/letsstart.159d18dcd5cbb5f5bbe1.jpg",
+    "static/media/web-design.png": "/Varni-Infosystem/static/media/web-design.5f329bd760af24edbf66.png",
+    "static/media/Skilled Professionals.jpg": "/Varni-Infosystem/static/media/Skilled Professionals.8ecb5ba9a691361dc6a6.jpg",
+    "static/media/Affordable Solutions.jpg": "/Varni-Infosystem/static/media/Affordable Solutions.02c95317a2cfbdc7dacc.jpg",
+    "static/media/market reputation.jpg": "/Varni-Infosystem/static/media/market reputation.afc3d3709587c2beb843.jpg",
+    "static/media/wordpress.png": "/Varni-Infosystem/static/media/wordpress.86ba0ee28809557bfc67.png",
+    "static/media/mobile-app-development.png": "/Varni-Infosystem/static/media/mobile-app-development.11379bbe8a307800db3b.png",
+    "static/media/e-commerce.jpg": "/Varni-Infosystem/static/media/e-commerce.d2f9fdd9976092ef5bed.jpg",
+    "static/media/magento.png": "/Varni-Infosystem/static/media/magento.81484a7aa0b6b1898469.png",
+    "static/media/Quick Turn Around Time.jpg": "/Varni-Infosystem/static/media/Quick Turn Around Time.260f51296642edd86adc.jpg",
+    "index.html": "/Varni-Infosystem/index.html",
+    "main.ecbdafc2.css.map": "/Varni-Infosystem/static/css/main.ecbdafc2.css.map",
+    "main.9b1711e5.js.map": "/Varni-Infosystem/static/js/main.9b1711e5.js.map",
+    "787.2a767361.chunk.js.map": "/Varni-Infosystem/static/js/787.2a767361.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecbdafc2.css",
+    "static/js/main.9b1711e5.js"
+  ]
+}
